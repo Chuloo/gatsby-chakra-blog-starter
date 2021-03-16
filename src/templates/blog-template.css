@@ -1,0 +1,26 @@
+/*Add all custom styles for the blog content here*/
+.blog-content{
+    line-height: 2;
+}
+.blog-content h1, .blog-content h2, .blog-content h3{
+    font-weight: 600;
+    margin-bottom: 3%;
+}
+
+.blog-content h1{
+    font-size: 1.4em;
+}
+
+.blog-content h2{
+    font-size: 1.2em;
+}
+
+.blog-content a {
+    color: #9d348a;
+}
+
+.blog-content p {
+    margin-bottom: 3%;
+}
+
+
